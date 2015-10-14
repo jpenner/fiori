@@ -1,0 +1,23 @@
+#startRunning{
+	color: #00ff44;
+}
+
+#endRunning{
+	color: #ff0000;
+}
+
+.textAlignCenter{
+	text-align: center;
+}
+
+.colorBlue{
+	color: #0000ff;
+}
+
+/*  ProductRating */
+.sapUiDemoWTProductRating {
+	padding: 0.75rem;
+}
+.sapUiDemoWTProductRating .sapMRI {
+	vertical-align: initial;
+}
